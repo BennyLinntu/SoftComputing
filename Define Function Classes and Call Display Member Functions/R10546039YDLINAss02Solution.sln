@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R10546039YDLINAss02", "R10546039YDLINAss02\R10546039YDLINAss02.csproj", "{58AD66E4-BC1F-44B1-BE99-62E1BD9F29A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunzzyLibaray", "..\..\Week1\R10546039YDLINAss01\FunzzyLibaray\FunzzyLibaray.csproj", "{CE5E4301-A064-4D8F-B37E-EC0F1A6E2D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AD66E4-BC1F-44B1-BE99-62E1BD9F29A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AD66E4-BC1F-44B1-BE99-62E1BD9F29A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AD66E4-BC1F-44B1-BE99-62E1BD9F29A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AD66E4-BC1F-44B1-BE99-62E1BD9F29A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5E4301-A064-4D8F-B37E-EC0F1A6E2D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5E4301-A064-4D8F-B37E-EC0F1A6E2D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5E4301-A064-4D8F-B37E-EC0F1A6E2D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5E4301-A064-4D8F-B37E-EC0F1A6E2D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6E3157-F090-46B0-AC04-BE0FBFCF6BDA}
+	EndGlobalSection
+EndGlobal

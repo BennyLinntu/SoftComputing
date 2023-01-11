@@ -1,0 +1,5 @@
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\bin\Debug\FunzzyLibaray.dll
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\bin\Debug\FunzzyLibaray.pdb
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\obj\Debug\FunzzyLibaray.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\obj\Debug\FunzzyLibaray.dll
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\obj\Debug\FunzzyLibaray.pdb

@@ -1,0 +1,13 @@
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\R.exe.config
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\R.exe
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\R.pdb
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLIN.MianForm.resources
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R.Properties.Resources.resources
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLINhomework1.csproj.GenerateResource.cache
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLINhomework1.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R.exe
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R.pdb
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLINhomework1.csproj.AssemblyReference.cache
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\FunzzyLibaray.dll
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\FunzzyLibaray.pdb
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLINhomework1.csproj.CopyComplete

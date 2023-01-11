@@ -1,0 +1,26 @@
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\R.exe.config
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\R.exe
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\R.pdb
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\FunzzyLibaray.dll
+C:\Users\Benny\Source\Repos\R\R\bin\Debug\FunzzyLibaray.pdb
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLINAss01.csproj.AssemblyReference.cache
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLIN.MianForm.resources
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R.Properties.Resources.resources
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLINAss01.csproj.GenerateResource.cache
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLINAss01.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R10546039YDLINAss01.csproj.CopyComplete
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R.exe
+C:\Users\Benny\Source\Repos\R\R\obj\Debug\R.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\bin\Debug\R.exe.config
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\bin\Debug\R.exe
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\bin\Debug\R.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\bin\Debug\FunzzyLibaray.dll
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\bin\Debug\FunzzyLibaray.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\obj\Debug\R10546039YDLINAss01.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\obj\Debug\R10546039YDLIN.MianForm.resources
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\obj\Debug\R.Properties.Resources.resources
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\obj\Debug\R10546039YDLINAss01.csproj.GenerateResource.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\obj\Debug\R10546039YDLINAss01.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\obj\Debug\R10546039YDLINAss01.csproj.CopyComplete
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\obj\Debug\R.exe
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\R\obj\Debug\R.pdb

@@ -1,0 +1,11 @@
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\bin\Debug\FunzzyLibaray.dll
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\bin\Debug\FunzzyLibaray.pdb
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\obj\Debug\FunzzyLibaray.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\obj\Debug\FunzzyLibaray.dll
+C:\Users\Benny\Source\Repos\R\FunzzyLibaray\obj\Debug\FunzzyLibaray.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\FunzzyLibaray\bin\Debug\FunzzyLibaray.dll
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\FunzzyLibaray\bin\Debug\FunzzyLibaray.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\FunzzyLibaray\obj\Debug\FunzzyLibaray.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\FunzzyLibaray\obj\Debug\FunzzyLibaray.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\FunzzyLibaray\obj\Debug\FunzzyLibaray.dll
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\Week1\R10546039YDLINAss01\FunzzyLibaray\obj\Debug\FunzzyLibaray.pdb
